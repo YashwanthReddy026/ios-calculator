@@ -10,7 +10,7 @@ An iOS-style calculator built with HTML, CSS, and JavaScript. This project is op
 
 ## Live Demo
 
-You can view the live demo [here](https://your-username.github.io/ios-calculator/).
+You can view the live demo [here](https://YashwanthReddy026.github.io/ios-calculator/).
 
 ## Getting Started
 
